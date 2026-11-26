@@ -55,7 +55,7 @@ public class Ukol1 {
     }
 
 
-        System.out.println("Královna jita děkuje za pripravy");
+        System.out.println("Královna jita děkuje za pripravy a da mirovi za 1");
 
 
 
